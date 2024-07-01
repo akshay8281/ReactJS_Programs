@@ -1,0 +1,29 @@
+.container_form {
+    width: 40%;
+    background-color: white;
+    color: black;
+    border: 2px solid red;
+    border-radius: 1rem;
+    box-shadow: 0 4px 20px grey;
+    padding: 2rem;
+    margin: auto;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    border: 1.5px solid grey;
+}
+
+button {
+    padding: 10px 15px;
+    background-color: navy;
+    color: white;
+    border-radius: 10px;
+    font-size: 1rem;
+    font-weight: 700;
+    margin-top: 15px;
+}

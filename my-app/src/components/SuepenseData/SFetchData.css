@@ -1,0 +1,17 @@
+body {
+    background-color: lightblue;
+}
+
+.loading,
+.dataFetched {
+    margin-top: 10px;
+    font-size: 40px;
+    color: red;
+    font-weight: 700;
+    text-align: center;
+}
+
+.loadSign {
+    text-align: center;
+    padding: 50px;
+}

@@ -1,0 +1,14 @@
+.container_main {
+    background-color: lightgreen;
+    padding: 15px;
+    width: 100%;
+    height: 100vh;
+    color: brown;
+    text-align: center;
+}
+
+h1 {
+    margin: 1.2rem;
+    color: brown;
+    font-size: 20px;
+}
